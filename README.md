@@ -1,7 +1,7 @@
-# react-18next-example
+# react-i18next-example
 ![React Starter in Spanish](./src/assets/react-i18next-example.png)
 
-This is an example repository showing how to use Localazy with react-18next for localization management.
+This is an example repository showing how to use Localazy with react-i18next for localization management.
 To learn more, check out the [blog post](https://localazy.com/blog/how-to-localize-react-app-with-react-18next-and-localazy) describing the set up in detail.
 
 ## Sandbox
