@@ -1,11 +1,11 @@
 # react-18next-example
-![Vue Starter in German](./src/assets/vue-starter-german.png)
+![React Starter in Spanish](./src/assets/react-i18next-example.png)
 
 This is an example repository showing how to use Localazy with react-18next for localization management.
 To learn more, check out the [blog post](https://localazy.com/blog/how-to-localize-react-app-with-react-18next-and-localazy) describing the set up in detail.
 
 ## Sandbox
-https://codesandbox.io/s/thirsty-aryabhata-8hpho
+https://codesandbox.io/s/misty-thunder-phjq0
 
 ## Testing out this repo
 This repository contains translations from an actual [Localazy React i18next example](https://localazy.com/p/react-i18next-example) app. You can try to run `localazy download` to see how it works. However, this app is in read-only mode, meaning that `localazy upload` will fail. 

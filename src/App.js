@@ -8,9 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            {/* <Trans i18nKey="stay_awhile_and_listen"></Trans> */}
             <Trans i18nKey="edit_and_reload">Edit <code>src/App.js</code> and save to reload.</Trans>
-          {/* Edit <code>src/App.js</code> and save to reload. */}
         </p>
         <a
           className="App-link"
